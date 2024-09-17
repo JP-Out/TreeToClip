@@ -1,4 +1,4 @@
-rectory Tree Visualizer
+Directory Tree Visualizer
 
 Este projeto é um **visualizador de estrutura de diretórios**, que gera uma árvore de diretórios e arquivos a partir de um caminho especificado. Ele permite visualizar a hierarquia de arquivos e diretórios, ignorando itens ocultos e a pasta `dist`, além de copiar a estrutura resultante para a área de transferência.
 
